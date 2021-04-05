@@ -7,7 +7,7 @@ In this project, various classifiers have been explored with the aim to reduce t
 
 The finalised models are then integrated into a python-based system which are then tested using real-world scenarios in order to provide decision support to the medical experts. This is achieved by generating various diagnoses and producing the respective explanation. The python-based system allows users easily interact with the different algorithms in an expected manner.
 
-
+## Running the Code
 To run the programme, the system requires all the necessary libraries that have been used throughout the lifecycle of the application. 
 
 Once all libraries have been installed, the GUI.py file can be executed. This programme uses all the pre-trained models and explanations mentioned in the report. To re-train the models, sections which have been labelled from the ANN.py, CNN.py and decisiontree_randomforest_train.py files should be uncommented and then executed. 
