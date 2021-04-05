@@ -1,1 +1,9 @@
 # Decision-Support-System-using-Model-Interpretability
+Machine learning algorithms are known for their predictive capabilities and have been proven in previous literature that expert systems which utilise machine learning algorithms improve the detection and identification of abnormalities in the medical field.
+
+
+In this project, various classifiers have been explored with the aim to reduce the misdiagnosis rate in medical examinations performed by doctors or other medical experts. In addition, this project focused on model interpretability and producing explanations from the classifiers as research has shown that providing comprehendible explanations allows for a greater level of trust between the user and the classifier. Indeed, this project developed a range of machine learning algorithms from decision trees and random forests to artificial neural networks and convolutional neural networks. The decision tree and random forest classifiers have been chosen due to the fact that these classifiers are often considered as ‘white boxes’ which allows the user to view the decision process of the classifier, thus making these models easily interpretable. Whereas, the neural networks are often referred to as ‘black box’ systems due to their complex technology which in turn makes the comprehension of the decision process hard and counterintuitive. This project focuses on developing model interpretability for both white box and black box systems.
+
+
+The finalised models are then integrated into a python-based system which are then tested using real-world scenarios in order to provide decision support to the medical experts. This is achieved by generating various diagnoses and producing the respective explanation. The python-based system allows users easily interact with the different algorithms in an expected manner.
+[]()
